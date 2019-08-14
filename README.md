@@ -1,1 +1,3 @@
-# cloudmate
+# Cloudmate App
+
+Running on AWS
