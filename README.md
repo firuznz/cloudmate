@@ -1,3 +1,3 @@
 # Cloudmate App
 
-Running on AWS
+Running on AWS x2 
